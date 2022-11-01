@@ -1,2 +1,2 @@
 # ITC-TradeStats-Analysis-Proj-2022
-By re-aggregating and visualizing international import and export statistics by item from the perspective of the value chain, the personal project was conducted to understand the current status and change trend of the global supply chain more comprehensively and intuitively.
+This project aimed to understand the current status of the global supply chain and the trend of change more comprehensively and intuitively. In particular, we tried to re-aggregate and visualize international import/export statistics from the point of view of the value chain, breaking away from the existing (microscopic) point of view that has mainly focused on the statistics of each item.
